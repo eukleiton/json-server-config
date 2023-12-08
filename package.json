@@ -1,0 +1,15 @@
+{
+  "name": "json-server-config",
+  "version": "1.0.0",
+  "description": "* ter o node instalado na maquina\r * rodar no comando: npm init -y\r * instalar o json-server: npm install json-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
